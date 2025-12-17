@@ -2,7 +2,7 @@
 //array of numbers
 var a =[1,2,3,4,5]  // 64bits *length = 320bits
 console.log(a)
- 
+ // this is comment 
 console.log(a[2]) //3
 
 // methods of array
@@ -37,6 +37,7 @@ var c =[
 console.log(c)
 console.log(c[1])
 console.log(c[1].age)
+
 
 
 
